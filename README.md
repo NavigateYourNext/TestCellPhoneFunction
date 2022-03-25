@@ -4,9 +4,9 @@ This project is about testing a code to validate South African Phone Number.
 Project Structure - 
 This project has been based on tools like Java and Cucumber BDD Framework.
 
-Project Folder Structrue -> Maven
-Scripting Language -> Java
-Framework Used -> BDD Framework
+Project Folder Structrue -> Maven,
+Scripting Language -> Java,
+Framework Used -> BDD Framework,
 Test Cases Written -> Cucumber
 
 
